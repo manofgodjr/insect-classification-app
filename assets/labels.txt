@@ -1,0 +1,4 @@
+0 Termites
+1 Tiger Moth
+2 Wild Silk Moth
+3 Long Horned Beetle
